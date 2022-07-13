@@ -1,0 +1,6 @@
+name: Example_plugin
+version: '${project.version}'
+main: example_plugin.example_plugin.Example_plugin
+api-version: 1.19
+authors: [ stoopi_poopy ]
+description: Plugin forked from stoopi_poopy's example plugin
